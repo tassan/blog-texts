@@ -51,6 +51,27 @@ The **automation** of process in which human error can occur is the focus on thi
 
 *Author's Note: Boring tasks should be done by robots, however killing humans shouldn't be a boring task... It shouldn't be a task at all.*
 
+#### Infrastructure As Code (IaC)
+
+> "Is the process of managing your infrastructure through machine-readable configuration files" and is the foundation that allows for the automation of your infra".
+
+
+
+**Takeaways**
+
+- IaC is the process of managing infrastructure through machine-readable configuration files
+- Iac is a declarative and automated way of provisioning infrastructure
+- You can apply the same tools and processes to your infrastructure as you do to your code
+- Use services like [CloudFormation](https://docs.aws.amazon.com/cloudformation/?id=docs_gateway) and [CDK](https://docs.aws.amazon.com/cdk/?id=docs_gateway) to implement IaC on AWS
+
+
+
+*Author's Note:  On a side note, [Terraform by HashiCorp](https://www.terraform.io/) is a tool focusing on this and it picks my interests, I must find a place in my study agenda to learn more about.*
+
+![Ver a imagem de origem](https://miro.medium.com/max/600/1*rxaaiY8J_jR0Cy57jnWRzA.jpeg)
+
+
+
 *Keywords*: Automation, Error prevention, improving internal process, infrastructure as code, observability.
 
 ### Security
